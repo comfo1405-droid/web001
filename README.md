@@ -1,24 +1,3 @@
-# Vishfolio
-Preview : https://vfolio.projects.vishlabs.xyz
-
-<p align="center">
-  A cinematic developer portfolio crafted with smooth motion, premium UI systems, and modern frontend tooling.
-</p>
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1496871967813533776/1504806980521431111/Screenshot_2026-05-15_at_4.43.45_PM.png?ex=6a085436&is=6a0702b6&hm=52e1dd18f0efee96201d180ef0558c8f73b4a5e2b73ec99d8c773315be0be2ac&" width="92%" alt="Vishfolio Preview" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer" />
-  <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs" />
-</p>
-
----
-
 ## Overview
 
 Vishfolio is a modern developer portfolio focused on:
