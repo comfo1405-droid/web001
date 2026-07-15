@@ -45,13 +45,11 @@ Built for developers who want a clean and visually polished digital identity.
 
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1505064198533550213/1526803612750184458/image.png?ex=6a585a2b&is=6a5708ab&hm=e320dbf59d71e3abc5
-    0d382817df588b0bb4a3748190b924cb2850fce92ca927&" width="92%" />
+  <img src="https://i.imgur.com/UqTikWD.png" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1505064198533550213/1526803628038291566/image.png?ex=6a585a2f&is=6a5708af&hm=55a45a8f80fa
-    7261195807c979a69a8b6a51af31908d38769c86690c49052e36&" width="92%" />
+  <img src="https://i.imgur.com/plRQoSs.png" width="92%" />
 </p>
 
 
