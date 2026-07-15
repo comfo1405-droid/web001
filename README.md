@@ -1,13 +1,5 @@
 ## Overview
 
-Vishfolio is a modern developer portfolio focused on:
-- cinematic layouts
-- subtle interaction
-- glassmorphism
-- motion-driven UI
-- premium typography
-- responsive frontend systems
-
 Built for developers who want a clean and visually polished digital identity.
 
 ---
